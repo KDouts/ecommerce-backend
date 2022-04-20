@@ -31,4 +31,4 @@ Access code through the deployment link.
 [Demo Video 2](https://drive.google.com/file/d/1Nw0z1KL8g_ASy88_JH3ZVLVnX4o1Ym5c/view)
 
 # Deployed Link
-[Deployed Page Link](kdouts.github.io/react-portfolio)
+[Deployed Page Link](https://github.com/KDouts/ecommerce-backend)
